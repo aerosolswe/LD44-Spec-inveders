@@ -2,7 +2,7 @@
 
 ## Spec inveders
 
-* [Play here](https://aerosolswe.github.io/Bunker-32/) <Spec inveders>
+* [Play here](https://aerosolswe.github.io/LD44-Spec-inveders/)
 
 ### General idea:
 Wow, people took our lands. We take back.
