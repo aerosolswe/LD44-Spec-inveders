@@ -8,7 +8,7 @@
 Wow, people took our lands. We take back.
 
 ### Art:
-By me
+3D and some 2D art, by me.. Sadly I didnt have time enough to make it more diverse or interesting.
 
 ### Sound fx & music:
 None, sorry
